@@ -11,7 +11,9 @@ Hibernate revolves around session factory
 Create StandardServiceRegistry registry to align our hibernate settings and build it.
 ![image](https://github.com/user-attachments/assets/a97772d5-302b-4c9b-8677-2a2f2ee2ebc4)
 
-annotate is how we define entities in java
+![image](https://github.com/user-attachments/assets/c1b7683d-08af-408b-812d-7c9c8be76e16)
+
+annotate is how we define entities in java, make sure to add annotated class.
 
 entity is java obj representation from sql
 
@@ -36,6 +38,9 @@ annotatedClass(book.class) tells java which fields to expect for .e.g id, not nu
 
 Main
 ![image](https://github.com/user-attachments/assets/519e5b57-6558-47e1-8f0a-db63998eb87e)
+
+![image](https://github.com/user-attachments/assets/93bb5cda-61ab-49e1-a150-270b34528b36)
+
 
 instantiate obj in main and it will appear on the db table
 doing lambda on session will automatically close sessions
