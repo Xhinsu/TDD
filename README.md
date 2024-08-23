@@ -9,4 +9,4 @@ Step 3: Flush it
 
 Hibernate revolves around session factory
 Create StandardServiceRegistry registry to align our hibernate settings and build it.
-![image](https://github.com/user-attachments/assets/ef709ff6-3fa8-46ec-8878-b8ee20b64bb4)
+![image](https://github.com/user-attachments/assets/a97772d5-302b-4c9b-8677-2a2f2ee2ebc4)
