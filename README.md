@@ -38,3 +38,4 @@ Main
 ![image](https://github.com/user-attachments/assets/519e5b57-6558-47e1-8f0a-db63998eb87e)
 
 instantiate obj in main and it will appear on the db table
+doing lambda on session will automatically close sessions
