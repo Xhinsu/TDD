@@ -10,6 +10,7 @@ Step 3: Flush it
 Hibernate revolves around session factory
 Create StandardServiceRegistry registry to align our hibernate settings and build it.
 ![image](https://github.com/user-attachments/assets/a97772d5-302b-4c9b-8677-2a2f2ee2ebc4)
+
 annotate is how we define entities in java
 
 entity is java obj representation from sql
@@ -17,6 +18,7 @@ entity is java obj representation from sql
 book
 
 ![image](https://github.com/user-attachments/assets/5273acbd-d5a7-47d5-beaa-5f7cd703ef05)
+
 isbn is good id candidate in real world so it can be annotated as ID
 lazy means have to request it to do it
 eager means it will do without request
@@ -26,12 +28,13 @@ uniqueConstraints is a attribute of table
 author
 
 ![image](https://github.com/user-attachments/assets/959347fe-e62c-423b-88f0-8009d2e6726a)
+
 id: primary key
 generatedValue: Serial key
 
 annotatedClass(book.class) tells java which fields to expect for .e.g id, not null manyto one
 
 Main
+![image](https://github.com/user-attachments/assets/519e5b57-6558-47e1-8f0a-db63998eb87e)
 
-![image](https://github.com/user-attachments/assets/66e7e408-e7c3-4e5c-8ab2-5d9ff9bd592b)
 instantiate obj in main and it will appear on the db table
