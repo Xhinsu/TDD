@@ -37,6 +37,7 @@ generatedValue: Serial key
 annotatedClass(book.class) tells java which fields to expect for .e.g id, not null manyto one
 
 Main
+
 ![image](https://github.com/user-attachments/assets/519e5b57-6558-47e1-8f0a-db63998eb87e)
 
 ![image](https://github.com/user-attachments/assets/93bb5cda-61ab-49e1-a150-270b34528b36)
