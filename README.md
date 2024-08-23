@@ -15,6 +15,7 @@ annotate is how we define entities in java
 entity is java obj representation from sql
 
 book
+
 ![image](https://github.com/user-attachments/assets/5273acbd-d5a7-47d5-beaa-5f7cd703ef05)
 isbn is good id candidate in real world so it can be annotated as ID
 lazy means have to request it to do it
@@ -23,6 +24,7 @@ notAll is a constraint
 uniqueConstraints is a attribute of table
 
 author
+
 ![image](https://github.com/user-attachments/assets/959347fe-e62c-423b-88f0-8009d2e6726a)
 id: primary key
 generatedValue: Serial key
@@ -30,5 +32,6 @@ generatedValue: Serial key
 annotatedClass(book.class) tells java which fields to expect for .e.g id, not null manyto one
 
 Main
-![image](https://github.com/user-attachments/assets/b098ef6d-8bba-47cd-885f-22667ef6b18d)
+
+![image](https://github.com/user-attachments/assets/66e7e408-e7c3-4e5c-8ab2-5d9ff9bd592b)
 instantiate obj in main and it will appear on the db table
