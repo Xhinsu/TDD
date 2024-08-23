@@ -14,7 +14,7 @@ annotate is how we define entities in java
 
 entity is java obj representation from sql
 book
-![image](https://github.com/user-attachments/assets/6ad86146-6cd8-4cd9-ab7e-97f72282fb99)
+![image](https://github.com/user-attachments/assets/496b0b76-6938-440f-ac0e-4967bd83d960)
 isbn is good id candidate in real world so it can be annotated as ID
 
 author
