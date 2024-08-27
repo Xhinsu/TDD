@@ -1,0 +1,30 @@
+HyperText transfer Protocol: Set of rules for formating and processing data
+
+What is api?
+An api is set of rules which allow differnet programs to speak to each other
+
+What problems do API solve?
+Internal: Get data from front end data website/application as if it was part of the same system.
+External: Make request which will be processed by data back end application and get data almost immediately. Api to access data from other organisations with ease and automated way.
+
+Request response cycle
+Client make request to server using WEB API and it travels through http and goes to router then to server
+
+Springboot receives request and calls another API in backend.
+
+Then sends it back to client.
+
+What type of data can be transferred?
+e.g: google.come/api/search?s=bananas
+
+api/search?s = endpoint
+endpoint: particular resource we want to get to
+
+Request can contain: URL, parameters, endpoint
+
+Request verb: GET, POST, PUT AND DELETE these verbs can also contain Header.
+Resonse: Status code for e.g. 404 Not found
+        : Body-data: list of banana, Code:200 - OK
+
+Json: Javascript obj notatoin
+
