@@ -26,5 +26,6 @@ Request verb: GET, POST, PUT AND DELETE these verbs can also contain Header.
 Resonse: Status code for e.g. 404 Not found
         : Body-data: list of banana, Code:200 - OK
 
-Json: Javascript obj notatoin
+Json: Javascript obj notation
+Key: Value
 
