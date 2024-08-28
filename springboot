@@ -1,6 +1,8 @@
 Spring framework: 
-  Open source, create stand alone, production grade applications
-  Runs on the JVM
+Spring Boot is an open-source tool that makes developing web applications and microservices with Spring Framework faster and easier. 
+It is one of the most popular frameworks within the Java ecosystem for web application development. 
+A majority of Java development roles will use Spring Boot and other Spring-based applications.
+Runs on the JVM
 
 We use spring boot to make MVC structured API
 
@@ -13,7 +15,7 @@ Benefits:
 
 What problem does it solve?
 Dependency injection  feature, allows defining dependencies
-Annotations
+Annotations: Spring Boot, and moreover the entire Spring ecosystem, relies on annotations to provide a wide range of functionalities for configuration, component scanning, dependency injection, etc.
 Allows app to be more modular
 Inversion of control ->handing over control of instantiating classes to spring framework/container->creating bean i.e. instantiated object
   @Component
