@@ -31,3 +31,10 @@ in controller, sending json obj from FE to backend. deserialize to java object
 
 FOLDER
 App properties file is where you will put sensitive information
+
+Then at the bottom we have the build plugin spring-boot-maven-plugin. This provides Spring Boot support in Apache Maven. 
+It allows you to package executable Jar (Java ARchive) or War (Web ARchive) archives, run Spring Boot applications, generate build information and 
+start your Spring Boot application prior to running integration tests.
+
+Running the Spring Boot application creates the 'Web Application Context', which is the 'Inversion of Control' container, that manages the creation, injection and lifecycle of the objects within the application. 
+It will also start the Apache TomCat webserver, which will start listening for HTTP requests.
