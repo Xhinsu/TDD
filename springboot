@@ -13,12 +13,21 @@ Benefits:
 
 What problem does it solve?
 Dependency injection  feature, allows defining dependencies
+Annotations
 Allows app to be more modular
 Inversion of control ->handing over control of instantiating classes to spring framework/container->creating bean i.e. instantiated object
   @Component
   @Service
   @Controller
+Annotation lets the container know what they are. i.e. @restController, @requestMapping ->route @GetMapping ->endPoint
   Has a container which stores this objects
  
 Pros: Cleaner code, 
     Better decoupling of our dependencies (change in one code leads to change in another if they are tighly coupled | each method has single responsibility), testing is easier because of it
+
+Data binding operation will be needed to consume public api
+spring serialize to json, to any response from get request
+in controller, sending json obj from FE to backend. deserialize to java object
+
+FOLDER
+App properties file is where you will put sensitive information
