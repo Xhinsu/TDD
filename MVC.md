@@ -31,7 +31,9 @@ MVC
 
 
 Views interacts
-Controller deals with http request. View between view and backend services.  Looks at req obj and pass data to business layer and appropriate response is sent back along with status and body.
+Controller: 
+  Deals with http request. View between view and backend services.  Looks at req obj and pass data to business layer and appropriate response is sent back along with status and body.
+  The Controller layer is the part that is in charge of routing and deciding what actions to perform next. It is the bridge between the View/Presentation Layer and the Backend services
 
 Model/ repository layer: working with the database and the logic layer
 MSRC: model, services, repository and controllers are the separate layers.
