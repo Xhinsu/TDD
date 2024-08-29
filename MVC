@@ -18,13 +18,11 @@ Keeping separate layers can help test for things better.
 
 Layered
 Views: Presentation tier
-Model: Services tier
+Services tier
 Database tier
 
-![image](https://prnt.sc/ky2iKjrGWfwa)
-![Alt text](https://prnt.sc/ky2iKjrGWfwa)
 
-https://prnt.sc/ky2iKjrGWfwa
+![image](https://prnt.sc/ky2iKjrGWfwa)
 
 
 
