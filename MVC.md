@@ -27,6 +27,8 @@ Database tier
 MVC
 
 ![image](https://github.com/user-attachments/assets/a86b87c1-4c1b-4deb-89fd-1b1e49e66609)
+![image](https://github.com/user-attachments/assets/52b0d639-1e46-4411-8879-e3fb159c3bf5)
+
 
 Views interacts
 Controller deals with http request. View between view and backend services.  Looks at req obj and pass data to business layer and appropriate response is sent back along with status and body.
