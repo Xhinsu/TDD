@@ -22,10 +22,11 @@ Services tier
 Database tier
 
 
-![image](https://prnt.sc/ky2iKjrGWfwa)
+![image](https://github.com/user-attachments/assets/3c56d0e4-f6a7-461d-979f-900de02ad1b0)
+
 
 MVC
-https://prnt.sc/dIuQbWR38_sK
+![image](https://github.com/user-attachments/assets/a86b87c1-4c1b-4deb-89fd-1b1e49e66609)
 
 
 
