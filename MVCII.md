@@ -22,7 +22,8 @@ We can also use setter method to inject dependency instead of constructor.
 
 Autowiring is spring way of doing above in a simple way. Beans are simply simpleton objectors. Each class has one bean.
 autowire handles dependency inj for us.
-Services are singleton instance
+Services are singleton instance.
+@Service annotation means make it a bean.
 
 ![image](https://github.com/user-attachments/assets/5c1511a4-afa0-44c0-ba71-40275f4d6999)
 
