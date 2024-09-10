@@ -14,11 +14,7 @@ To develop microservices architecture , loosely coupled system. So they can sepa
 Increased traffic - > increased latency so applications possibly is crashing at the payment page. To fix this, increased internet bandwidth and integrate load balancer (traffic police), vertically and horizontally increase the server efficiency.
 
 They have no feedback on exceptions, so they could write efficient codes to manage exception and add logger to view history of information to find out root cause. Automatic notifications for alerts such as power outage, natural disasters and so on.
-
-
 Grafana: They can use grafana dashboard to monitor performances in real time.
-
-
 Implementing this will help them prepare for next time.
 
 Scenario 2:
@@ -38,5 +34,17 @@ Add more webservers to serve the simple front end this will also reduce latency 
 Add more database server copies, in case of natural disaster / power outage so client can be served from second or third DB if the first one is out of use.
 
 Scenario 3:
+
+Third party Api B is down and 50% of payments are unsuccesful
+
+One possible solution: Using load balancer (weighted distribution) 100% of payments processing load can be sent to Api A. But if this goes down, then mayhem. So not a good solution.
+
+This solution is ideal: Add more third party API payment services and load balancer can contiue doing round/round.
+
+
+Scenario 4:
+
+
+
 
 
