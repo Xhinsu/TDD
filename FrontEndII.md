@@ -21,3 +21,8 @@ main
 
 
 ![image](https://github.com/user-attachments/assets/52795dc5-a8b9-4141-87a5-8199e0ff11ce)
+
+activity EditText
+![image](https://github.com/user-attachments/assets/69ac4d2e-f4b2-4a69-8f1b-8f146f3eda69)
+
+![WhatsApp Image 2024-09-15 at 20 14 35_37f3919a](https://github.com/user-attachments/assets/d999748a-9a30-4f25-9a44-93157d06abc8)
