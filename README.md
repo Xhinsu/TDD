@@ -1,7 +1,7 @@
 # Waddl REST API 
 
-### A RESTful API example for simple task management application with JAVA/. 
-### It provides the ability to mange task by sending an REST/HTTP request to the server.
+A RESTful API example for simple task management application with JAVA/. 
+It provides the ability to mange task by sending an REST/HTTP request to the server.
 
 ## Feature List
 * User can see all current tasks
