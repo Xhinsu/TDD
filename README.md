@@ -14,11 +14,11 @@ It provides the ability to mange task by sending an REST/HTTP request to the ser
 ## API Endpoints
 | Method | Url | Description |
 |--------|:-----:| ----------|
-| GET    | /api/v1/tasks     | get all task|
-| GET    | /api/v1/tasks/:id | get detail about a task|
-| POST   | /api/v1/tasks     | add a task|
-| PUT    | /api/v1/tasks/:id | update detail about a task|
-| DELETE | /api/v1/tasks/:id | delete detail about a task|
+| `GET`    | `/api/v1/tasks`    | get all task|
+| `GET`    | `/api/v1/tasks/:id` | get detail about a task|
+| `POST`   | `/api/v1/tasks `    | add a task|
+| `PUT`    | `/api/v1/tasks/:id` | update detail about a task|
+| `DELETE` | `/api/v1/tasks/:id` | delete detail about a task|
 
 
 
