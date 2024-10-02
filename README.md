@@ -13,6 +13,7 @@
 
 ## API Endpoints
 | Method | Url |
+|--------|:-----:|
 | GET    | api/v1/tasks |
 
 
