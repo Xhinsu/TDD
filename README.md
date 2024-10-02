@@ -10,6 +10,10 @@ It provides the ability to mange task by sending an REST/HTTP request to the ser
 * User can update task from list
 * User can see task status
 
+# Getting started
+
+`http://waddlbackend-env.eba-gmmyh7ye.eu-west-2.elasticbeanstalk.com/api/v1/tasks/health`
+
 
 ## API Endpoints
 | Method | Url | Description |
@@ -19,6 +23,9 @@ It provides the ability to mange task by sending an REST/HTTP request to the ser
 | `POST`   | `/api/v1/tasks `    | add a task|
 | `PUT`    | `/api/v1/tasks/:id` | update detail about a task|
 | `DELETE` | `/api/v1/tasks/:id` | delete detail about a task|
+
+
+http://waddlbackend-env.eba-gmmyh7ye.eu-west-2.elasticbeanstalk.com/api/v1/tasks/health
 
 
 
