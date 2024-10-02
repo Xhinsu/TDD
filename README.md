@@ -12,5 +12,7 @@
 
 
 ## API Endpoints
-### http://waddlbackend-env.eba-gmmyh7ye.eu-west-2.elasticbeanstalk.com/api/v1/tasks
-* 
+| Method | Url |
+| GET    | api/v1/tasks |
+
+
