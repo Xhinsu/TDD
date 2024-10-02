@@ -25,7 +25,6 @@ It provides the ability to mange task by sending an REST/HTTP request to the ser
 | `DELETE` | `/api/v1/tasks/:id` | delete detail about a task|
 
 
-http://waddlbackend-env.eba-gmmyh7ye.eu-west-2.elasticbeanstalk.com/api/v1/tasks/health
 
 
 
