@@ -12,8 +12,8 @@
 
 
 ## API Endpoints
-| Method | Url |
-|--------|:-----:|
-| GET    | api/v1/tasks |
+| Method | Url | Description |
+|--------|:-----:| ----------|
+| GET    | /api/v1/tasks | get all task|
 
 
