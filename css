@@ -1,2 +1,5 @@
 pixel: its a measuring unit based on viewing distance
 its a measurement of length relative to expected viewing distance of device being used
+
+rem: relative to root (html)
+em: em is relative to fontsize of element its assigned to (its good to use for padding, margin and width as it is relative to the element)
